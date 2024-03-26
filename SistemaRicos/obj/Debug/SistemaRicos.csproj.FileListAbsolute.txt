@@ -1,0 +1,9 @@
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\bin\Debug\SistemaRicos.exe.config
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\bin\Debug\SistemaRicos.exe
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\bin\Debug\SistemaRicos.pdb
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.csproj.AssemblyReference.cache
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.Form1.resources
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.csproj.GenerateResource.cache
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.csproj.CoreCompileInputs.cache
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.exe
+C:\Users\barce\OneDrive\Documentos\Projetos\SistemaRicos\SistemaRicos\obj\Debug\SistemaRicos.pdb
